@@ -205,13 +205,13 @@ Esta tabla corresponde al dataset de Hechos. No se observan nulos en el dataset 
 
 ## Conclusiones Finales
 
-* Diciembre fue identificado como el mes más letal con 76 accidentes registrados de 2016 a 2021. El número promedio de accidentes por mes es de 57, lo que indica que diciembre está un 33,33% por encima de la cantidad promedio.
-* Las avenidas fueron identificadas como el tipo de carretera más mortífero, superando a calles y autopistas. El 62,87% de las víctimas fallecieron en accidentes de avenidas. Los autos son la principal causa, y peatones y motociclistas son las principales víctimas.
-* La cantidad de accidentes disminuyó significativamente de 2018 a 2020 (de 142 a 76 accidentes respectivamente), siendo la COVID-19 la principal causa.
-* Los motociclistas son las principales víctimas en accidentes de autopistas, representando un 61% del total de víctimas en autopistas.
+* Diciembre fue identificado como el mes más letal con 81 accidentes registrados de 2016 a 2021. El número promedio de accidentes por mes es de 57, lo que indica que diciembre está un 33,33% por encima de la cantidad promedio.
+* Las avenidas fueron identificadas como el tipo de carretera más mortífero, superando a calles y autopistas. El 61,7% de las víctimas fallecieron en accidentes de avenidas. Los autos son la principal causa, y peatones y motociclistas son las principales víctimas.
+* La cantidad de accidentes disminuyó significativamente de 2018 a 2020 (de 149 a 81 accidentes respectivamente), siendo la COVID-19 la principal causa.
+* Los motociclistas son las principales víctimas en accidentes, donde la mayoría comprende un rango de edad entre 25 y 40 años.
 * En Buenos Aires, 1,35 ciudadanos por cada 100.000 habitantes sufren un accidente mortal en la carretera.
-* Solo el 23,15% de las víctimas eran mujeres.
-* 108 accidentes fueron causados por pasajeros que afectaron a peatones (15,81%). La principal causa se atribuye al contexto del crimen en la ciudad de Buenos Aires, donde los tipos más comunes de robo y sicariato incluyen a un motociclista y un acompañante.
+* Solo el 23,2% de las víctimas eran mujeres.
+* En cuanto a los horarios de los siniestros, se puede apreciar que entre las 5:00 – 8:00 horas se registran la mayor cantidad de siniestrabilidad con 125 siniestros viales, asimismo, entre las 16:00 – 20:00 horas se registran 124, siendo los horarios con mayor incidencia de siniestros viales en el periodo 2016-2021.
 
 
 ## Recomendaciones para la Seguridad Vial en CABA: Un Enfoque Analítico para la Mejora Sostenible
