@@ -1,4 +1,6 @@
-# Road-Accidents-DA
+# SINIESTROS-VIALES-DA
+
+<image src="imgs/seguridad vial.png" alt="img seguridad vial">
 
 Proyecto de Análisis de Datos para el Centro de Estudios (OMSV) en Buenos Aires, Argentina.
 
@@ -7,7 +9,6 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de los dato
 ## Tabla de Contenido:
 
 - [Road-Accidents-DA](#road-accidents-da)
-  - [Tablero Interactivo](#tablero-interactivo)
   - [Tecnologías](#tecnologías)
   - [Archivos del Proyecto](#archivos-del-proyecto)
   - [Conjuntos de Datos](#conjuntos-de-datos)
@@ -18,18 +19,6 @@ Este proyecto tiene como objetivo realizar un análisis exploratorio de los dato
   - [Estructuración del Análisis Exploratorio de Datos (EDA)](#estructuración-del-análisis-exploratorio-de-datos-eda)
   - [Conclusiones Finales](#conclusiones-finales)
 
-
-## DashBoard
-
-Por favor, visita este [enlace](https://app.powerbi.com/view?r=eyJrIjoiMjdiNTgwNjEtMTQ3OC00ODY3LTgwNDEtNTUxNmM3Mjk2MDlhIiwidCI6ImFlNTI1NzU3LTg5YmEtNGQzMC1hMmY3LTQ5Nzk2ZWY4YzYwNCIsImMiOjR9) para ver de forma interactiva el panel publicado en la web.
-
-**IMPORTANTE:** El mapa geoespacial utilizado (ArcGis) para visualizar las coordenadas de latitud (Y) y longitud (X) y otros datos relevantes no es compatible con los informes publicados en PowerBI web. La razón principal es que actualmente no puedo permitirme una cuenta de pago en ArcGis. Sin embargo, ¡compartiré algunas imágenes del informe en este readme!
-
-
-![Front](src/dashboard_front.png)
-![Map](src/dashboard_map.png)
-![Stats](src/dashboard_stats.png)
-![KPIs](src/dashboard_kpis.png)
 
 ## Tecnologías
 
@@ -55,6 +44,8 @@ Para obtener información relacionada con los archivos, tipos y descripciones qu
 | 5 | src           | .png   | Contiene imágenes utilizadas como fuente para este archivo readme y para el cuaderno EDA |
 | 6  | EDA           | .ipynb | Contiene todo el proceso de Análisis Exploratorio de Datos detallado con comentarios en markdown y paso a paso |
 | 7  | ETL  | .ipynb   | Contiene todo el proceso de extracción, limpieza y carga de datps con comentarios en markdown y paso a paso          |
+| 8  | imgs  | .png   | Contiene imagenes para la parte visual del readme          |
+| 9  | KPI'S  | .csv   | Contiene archivos csv asociados a los KPI'S tratados          |
 
 
 ## Datasets
@@ -68,7 +59,7 @@ Para este proyecto se utilizó un conjunto de datos con 2 tablas relacionadas. E
   * Diccionario Victimas
 
 
-Las hojas 'Hechos' y 'Víctimas' contienen la información principal sobre 696 accidentes de tráfico ocurridos entre los años 2016 a 2021. Las hojas restantes contienen información sobre los metadatos descriptivos. En la siguiente sección, se mostrarán en detalle los metadatos descriptivos del conjunto de datos.
+Las hojas 'Hechos' y 'Víctimas' contienen la información principal sobre 696/717 accidentes de tráfico, respectivamente, ocurridos entre los años 2016 a 2021. Las hojas restantes contienen información sobre los metadatos descriptivos. En la siguiente sección, se mostrarán en detalle los metadatos descriptivos del conjunto de datos.
 
 Mas información: https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales
 
